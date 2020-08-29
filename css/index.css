@@ -1091,7 +1091,7 @@ a:-webkit-any-link {
 
 @media screen and (max-width: 420px) {
     .content__center {
-        height: 35vh;
+        height: 28vh;
     }
 
     .questionnaire_background {
@@ -1145,7 +1145,7 @@ a:-webkit-any-link {
 
 @media screen and (max-width: 320px) {
     .content__center {
-        height: 26vh;
+        height: 24vh;
     }
 
     .questionnaire_background {
